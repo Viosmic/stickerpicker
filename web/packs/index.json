@@ -1,6 +1,9 @@
 {
   "packs": [
-    "Arcaea_Stickers.json"
+    "Arcaea_Stickers.json",
+    "Wacca_Stickers_1.json",
+    "Wacca_Stickers_2.json",
+    "Wacca_Stickers_3.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
